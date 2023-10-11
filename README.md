@@ -8,5 +8,3 @@ Yash Dagadkhair
 Akshay Dongare
 
 Jaydatta Patwe
-
-Mentor:
