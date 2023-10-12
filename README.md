@@ -1,10 +1,10 @@
 # DAA-Mini-Project
-Implementation of Naive String Matching Algorithm and Rabin-Karp Algorithm for DAA Mini Project, SPPU-7th Sem
 
-Group Members:
+## Implementation of Naive String Matching Algorithm and Rabin-Karp Algorithm for DAA Mini Project, SPPU-7th Sem
 
-Yash Dagadkhair
+### Group Members:
+1. Yash Dagadkhair
 
-Akshay Dongare
+2. Akshay Dongare
 
-Jaydatta Patwe
+3. Jaydatta Patwe
